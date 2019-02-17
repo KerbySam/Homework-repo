@@ -11,7 +11,7 @@ struct queue <T> {
     mutating func AppendElement(element: T) {
         elements.append(element)
     }
-    mutating func RemoveElement(_ value : Int)->T {
+    mutating func RemoveElement(_ value : Int) -> T {
         return elements.remove(at: value)
     }
     
