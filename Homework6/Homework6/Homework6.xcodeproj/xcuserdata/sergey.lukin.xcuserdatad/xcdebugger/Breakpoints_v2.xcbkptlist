@@ -19,12 +19,12 @@
                   moduleName = "Homework6"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/sergey.lukin/Documents/git/Homework-repo/Homework6/Homework6/Homework6/main.swift"
-                  timestampString = "572131331.190181"
+                  timestampString = "572132933.272018"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "99"
-                  endingLineNumber = "99"
-                  offsetFromSymbolStart = "3567">
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "2991">
                </Location>
             </Locations>
          </BreakpointContent>
